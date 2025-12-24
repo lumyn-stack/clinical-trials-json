@@ -993,6 +993,8 @@
   "TRIALNAME": "EMPEROR-Preserved",
   "JOURNAL": "N Engl J Med",
   "LINK": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2107038",
+  "CATEGORY": "Cardiology",
+  "SUBCATEGORY": "Heart Failure",
   "CITATION": "Anker SD, Butler J, Filippatos G, et al. Empagliflozin in heart failure with a preserved ejection fraction. N Engl J Med. 2021;385(16):1451-1461. doi:10.1056/NEJMoa2107038",
   "YEAR": "2021",
   "TRIALTYPE": "Multicenter, randomized, double-blind, placebo-controlled trial",

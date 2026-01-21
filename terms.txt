@@ -1,0 +1,65 @@
+##Terms & Conditions
+
+Effective Date: January 1, 2026
+
+These Terms & Conditions (“Terms”) govern your access to and use of SwiftTrials (the “App”). By downloading, accessing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+
+##Educational Use Only; Not Medical Advice
+
+The App is provided for educational and learning purposes only. The App does not provide medical advice, diagnosis, or treatment, and it is not a substitute for professional judgment.
+
+You must always seek the advice of a qualified health professional with any questions you may have regarding a medical condition, diagnosis, or treatment. Never disregard professional medical advice or delay seeking it because of something you read or viewed in the App. If you believe you may have a medical emergency, contact emergency services immediately.
+
+##No Professional Relationship
+
+Use of the App does not create a clinician–patient relationship or any other professional relationship between you and the App’s developer. Any content in the App is general educational information and is not tailored to your personal circumstances.
+
+##Trial Summaries, Accuracy, and Generative AI
+
+The App contains clinical trial summaries and educational content intended to make learning more efficient through organization and succinct visual presentation. Trial summaries are written and edited and/or proofread by medical professionals; however, generative AI may be used in drafting, refining, or formatting content.
+
+You acknowledge and agree that, despite best efforts, the App may contain errors, omissions, or inaccuracies, including in summaries, categorizations, metadata, or interpretations. The App does not guarantee that any content is complete, current, or error-free. You agree to verify information by consulting the original publication.
+
+##Original Articles and Source-of-Truth
+
+When available, the App provides a link to the original article or publisher page. You should always refer to the original article as the authoritative source of record. The App is not responsible for any discrepancies between App summaries and the original publication.
+
+##Publisher Rights and Third-Party Content
+
+All full papers and published articles referenced in the App are the sole property of their respective publishers and rights-holders. The App does not claim ownership of any third-party works and does not attempt to republish any copyrighted paper in full without permission.
+
+The App’s value is in its organization, categorization, and succinct visual presentation of educational summaries to make learning and review easier. Any trademarks, journal names, or publisher marks belong to their respective owners.
+
+##Assumption of Risk; Limitation of Liability
+
+Your use of the App is at your own risk. To the maximum extent permitted by applicable law, SwiftTrials and its developer are not liable for any injury, harm, loss, or damages arising from or related to your use of, reliance on, or inability to use the App, including any alleged errors or omissions in content, or any actions taken based on information presented in the App.
+
+Some jurisdictions do not allow certain limitations of liability, so some of the above limitations may not apply to you. In such cases, liability will be limited to the fullest extent permitted by law.
+
+##Availability; Worldwide Access
+
+The App may be available for download and use worldwide, but availability and functionality may vary by region, device, operating system version, or other factors. The developer may modify, suspend, or discontinue any part of the App at any time.
+
+##Acceptable Use
+
+You agree not to misuse the App or attempt to disrupt its operation. You agree not to represent the App as providing medical advice or clinical guidance, and you agree not to copy, reproduce, distribute, or commercially exploit App content except as permitted by law or with written permission.
+
+##Intellectual Property
+
+The App, including its design, user interface, organization system, and original content created for the App, is owned by the developer or licensors and is protected by applicable intellectual property laws. You may not copy, modify, reverse engineer, sell, or distribute the App except as permitted by law.
+
+##Privacy
+
+At this time, SwiftTrials does not provide a separate Privacy Policy within these Terms. If a Privacy Policy is added later, it will govern how any applicable data is handled and will be made available to users. Continued use of the App after a Privacy Policy is published constitutes acceptance of that policy.
+
+##Changes to These Terms
+
+These Terms may be updated from time to time. If changes are made, the Effective Date above may be updated. Continued use of the App after changes become effective means you accept the updated Terms.
+
+##Governing Law
+
+Because SwiftTrials is offered worldwide and operated by an individual, these Terms are intended to apply globally to the maximum extent permitted. Depending on where you live, you may have consumer rights that cannot be waived, and local laws may apply. Any disputes will be handled in accordance with applicable law, including any mandatory consumer protection provisions.
+
+##Contact
+
+If you have questions about these Terms, please contact lumyn.glitchreport01@gmail.com.

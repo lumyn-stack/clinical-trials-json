@@ -1,5 +1,12 @@
 [
   {
+    "id": "clicked_trials",
+    "name": "Continue Reading",
+    "active": "yes",
+    "photo": "default",
+    "trials": []
+  },
+  {
     "id": "starter_pack_20",
     "name": "Highest-Yield",
     "active": "yes",
@@ -206,5 +213,12 @@
       "ProMISe",
       "Novel START"
     ]
-  }
+  },
+  {
+    "id": "saved_trials",
+    "name": "My Saved Trials",
+    "active": "yes",
+    "photo": "default",
+    "trials": []
+  },
 ]

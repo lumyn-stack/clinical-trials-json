@@ -217,7 +217,7 @@
   {
     "id": "saved_trials",
     "name": "My Saved Trials",
-    "active": "yes",
+    "active": "no",
     "photo": "default",
     "trials": []
   },

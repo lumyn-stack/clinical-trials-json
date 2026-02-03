@@ -7,7 +7,7 @@
     "trials": []
   },
   {
-    "id": "starter_pack_20",
+    "id": "highest_yield",
     "name": "Highest-Yield",
     "active": "yes",
     "photo": "default",
@@ -23,7 +23,6 @@
       "SUSTAIN-6",
       "CREDENCE",
       "DAPA-CKD",
-      "RECOVERY (Covid-19)",
       "ACTT-1",
       "PROSEVA",
       "SMART",
@@ -35,8 +34,24 @@
     ]
   },
   {
+    "id": "new",
+    "name": "Recently Added",
+    "active": "yes",
+    "photo": "default",
+    "trials": [
+      "Antithrombotic Therapy after Successful AF Ablation",
+      "Berberine and Adiposity in Diabetes-Free Individuals With Obesity and MASLD",
+      "Enlicitide in  Hypercholesterolemia",
+      "APPAC (10-year follow-up)",
+      "PARACHUTE-HF",
+      "CORAL",
+      "SHARP",
+      "VESALIUS-CV"
+    ]
+  },
+  {
     "id": "cardio_core",
-    "name": "Cardiology Core",
+    "name": "Landmark Cardiology",
     "active": "yes",
     "photo": "default",
     "trials": [
@@ -58,49 +73,9 @@
     ]
   },
   {
-    "id": "cardiorenal_endocrine",
-    "name": "Cardio-Renal & Diabetes Gamechangers",
-    "active": "no",
-    "photo": "default",
-    "trials": [
-      "EMPA-REG OUTCOME",
-      "CANVAS",
-      "CREDENCE",
-      "DAPA-CKD",
-      "FIDELIO-DKD",
-      "LEADER",
-      "SUSTAIN-6",
-      "STEP 1",
-      "STAMPEDE",
-      "VA-NEPHRON D",
-      "DAPA-HF",
-      "EMPEROR-Preserved"
-    ]
-  },
-  {
-    "id": "icu_sepsis_resus",
-    "name": "ICU Gamechangers",
-    "active": "no",
-    "photo": "default",
-    "trials": [
-      "ProCESS",
-      "ProMISe",
-      "SEPSISPAM",
-      "ADRENAL",
-      "SMART",
-      "TRISS",
-      "AKIKI",
-      "PROPPR",
-      "PROSEVA",
-      "FLORALI",
-      "OSCILLATE",
-      "TTM2"
-    ]
-  },
-  {
     "id": "anticoag_vte",
-    "name": "Anticoagulation & VTE Essentials",
-    "active": "no",
+    "name": "Anticoagulation Foundations",
+    "active": "yes",
     "photo": "default",
     "trials": [
       "AMPLIFY",
@@ -130,88 +105,6 @@
       "RAMPART",
       "RESCUEicp",
       "TTM2"
-    ]
-  },
-  {
-    "id": "pulm_airway",
-    "name": "Pulm & Airway",
-    "active": "no",
-    "photo": "default",
-    "trials": [
-      "PROSEVA",
-      "FLORALI",
-      "OSCILLATE",
-      "Novel START",
-      "FLAME (COPD)",
-      "REDUCE",
-      "NLST",
-      "ASCEND",
-      "INPULSIS Trials",
-      "PEITHO"
-    ]
-  },
-  {
-    "id": "id_antibiotics",
-    "name": "Infectious Disease",
-    "active": "no",
-    "photo": "default",
-    "trials": [
-      "CAP-START",
-      "OVIVA",
-      "STOP-IT",
-      "PREVENT TB",
-      "INSIGHT START",
-      "HPTN 052",
-      "RECOVERY (Covid-19)",
-      "ACTT-1",
-      "MIST2",
-      "Fidaxomicin versus vancomycin for Clostridium difficile infection",
-      "Duodenal Infusion of Donor Feces for Recurrent Clostridium difficile"
-    ]
-  },
-  {
-    "id": "gi_bleed_liver_gut",
-    "name": "GI",
-    "active": "no",
-    "photo": "default",
-    "trials": [
-      "Transfusion Strategies for Acute Upper Gastrointestinal Bleeding",
-      "STOPAH",
-      "Rifaximin and Lactulose for HE",
-      "MODIFY I and II",
-      "COLONPREV",
-      "Fidaxomicin versus vancomycin for Clostridium difficile infection",
-      "Duodenal Infusion of Donor Feces for Recurrent Clostridium difficile"
-    ]
-  },
-  {
-    "id": "surgery_periop",
-    "name": "Surgery & Peri-op",
-    "active": "no",
-    "photo": "default",
-    "trials": [
-      "APPAC",
-      "TRICS III",
-      "MSLT-1",
-      "EASE",
-      "PROPPR",
-      "RESCUEicp"
-    ]
-  },
-  {
-    "id": "ed_rules",
-    "name": "Emergency Medicine",
-    "active": "no",
-    "photo": "default",
-    "trials": [
-      "ADJUST-PE",
-      "Undetectable high-sensitivity cardiac troponin T level in the emergency department and risk of myocardial infarction",
-      "NACSTOP",
-      "PROPER",
-      "EcLiPSE",
-      "RACE 7 ACWAS",
-      "ProMISe",
-      "Novel START"
     ]
   },
   {

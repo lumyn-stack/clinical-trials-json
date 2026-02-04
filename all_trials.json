@@ -2195,12 +2195,12 @@
   "BOTTOMLINE": "In patients with HFrEF caused by chronic Chagas cardiomyopathy, sacubitril/valsartan did not meaningfully improve the clinical components of the primary composite (CV death and first HF hospitalization) compared with enalapril, although it achieved a larger reduction in NT-proBNP at 12 weeks and a superior hierarchical win ratio driven by this biomarker effect. Clinically, these data suggest that sacubitril/valsartan offers no clear advantage over enalapril for hard outcomes in this population, and its use should be individualized, recognizing that its main demonstrated benefit is a greater NT-proBNP reduction rather than improved survival or hospitalization rates.",
   "BOTTOMLINE_simple": "In HFrEF due to Chagas cardiomyopathy, sacubitril/valsartan did not improve clinical outcomes compared with enalapril, despite producing a larger reduction in NT-proBNP.",
   "PRIMARYOUTCOMES": [
-    "Hierarchical composite of CV death, first HF hospitalization, and relative change in NT-proBNP at 12 weeks; ; ; WR 1.52, 95% CI 1.28-1.82, P<0.001",
+    "Hierarchical composite of CV death, first HF hospitalization, and relative change in NT-proBNP at 12 weeks; ; ; WR 1.52, 95% CI 1.28-1.82, P<0.001"
+  ],
+  "SECONDARYOUTCOMES": [
     "Cardiovascular death (%); 23.8; 25.4;",
     "First HF hospitalization (%); 22.1; 24.1;",
     "Percent change in NT-proBNP at 12 weeks (%); -30.6; -5.5;"
-  ],
-  "SECONDARYOUTCOMES": [
   ],
   "CLINICALCONTEXT": "Chagas disease is a major cause of nonischemic cardiomyopathy in Latin America, leading to a distinct form of HFrEF with high rates of arrhythmia, thromboembolism, and progressive HF. Foundational HFrEF trials of ACEIs, ARBs, ARNIs, beta-blockers, and MRAs largely excluded patients with Chagas cardiomyopathy, so guideline-recommended therapies have historically been extrapolated to this population without disease-specific evidence. PARACHUTE-HF was designed to test whether the established benefits of sacubitril/valsartan over ACEI in other HFrEF etiologies would extend to Chagas-related HFrEF, using a hierarchical composite endpoint incorporating both clinical events and NT-proBNP response.\n\nCurrent HF guidelines (such as ACC/AHA/HFSA 2022 and ESC HF guidelines) endorse ARNI as part of core GDMT for HFrEF but do not provide specific, high-level recommendations tailored to Chagas cardiomyopathy. This trial shows that in Chagas HFrEF, sacubitril/valsartan yields a more favorable NT-proBNP trajectory but no clear improvement in CV death or HF hospitalization vs enalapril, suggesting that clinicians can reasonably continue ACEI or ARNI based on patient-level factors, cost, access, and tolerability rather than expecting major incremental clinical benefit from ARNI in this etiology. The open-label PROBE design, reliance on a biomarker-driven hierarchical endpoint, and restriction to Latin American centers mean that results should be interpreted with awareness of potential bias and limited generalizability beyond chronic Chagas cardiomyopathy in similar practice settings.",
   "INCLUSION": "Adults with HF due to chronic Chagas cardiomyopathy, NYHA class II–IV symptoms, LVEF ≤40%, Elevated NT-proBNP or BNP above prespecified thresholds, Eligible for and receiving background guideline-directed HF therapy as appropriate",
@@ -3053,7 +3053,7 @@
   "TRIALNAME": "COLONPREV",
   "JOURNAL": "NEJM",
   "LINK": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1108895",
-  "CATEGORY": "Gastroenterology",
+  "CATEGORY": "Oncology",
   "SUBCATEGORY": "Colorectal Cancer",
   "CITATION": "Quintero E, Castells A, Bujanda L, et al. Colonoscopy versus fecal immunochemical testing in colorectal-cancer screening. N Engl J Med. 2012;366(8):697-706. doi:10.1056/NEJMoa1108895",
   "YEAR": "2012",
@@ -4151,7 +4151,7 @@
   "TRIALNAME": "Ibrutinib-Rituximab or Chemoimmunotherapy for Chronic Lymphocytic Leukemia",
   "JOURNAL": "NEJM",
   "LINK": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1817073",
-  "CATEGORY": "Hematology",
+  "CATEGORY": "Oncology",
   "SUBCATEGORY": "Chronic Lymphocytic Leukemia",
   "CITATION": "Shanafelt TD, Wang XV, Kay NE, et al. Ibrutinib-Rituximab or Chemoimmunotherapy for Chronic Lymphocytic Leukemia. N Engl J Med. 2019;381(5):432-443. doi:10.1056/NEJMoa1817073",
   "YEAR": "2019",
@@ -4235,7 +4235,7 @@
   "TRIALNAME": "Retinoic acid and arsenic trioxide for acute promyelocytic leukemia",
   "JOURNAL": "NEJM",
   "LINK": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1300874",
-  "CATEGORY": "Hematology",
+  "CATEGORY": "Oncology",
   "SUBCATEGORY": "Leukemia",
   "CITATION": "Lo-Coco F, Avvisati G, Vignetti M, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med. 2013;369(2):111-121. doi:10.1056/NEJMoa1300874.",
   "YEAR": "2013",
@@ -4461,7 +4461,7 @@
   "TRIALNAME": "NLST",
   "JOURNAL": "NEJM",
   "LINK": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1102873",
-  "CATEGORY": "Pulmonology",
+  "CATEGORY": "Oncology",
   "SUBCATEGORY": "Lung Cancer",
   "CITATION": "Aberle DR, Adams AM, Berg CD, et al. Reduced lung-cancer mortality with low-dose computed tomographic screening. N Engl J Med. 2011;365(5):395-409. doi:10.1056/NEJMoa1102873",
   "YEAR": "2011",

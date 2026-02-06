@@ -12,9 +12,9 @@ You must always seek the advice of a qualified health professional with any ques
 
 Use of the App does not create a clinician–patient relationship or any other professional relationship between you and the App’s developer. Any content in the App is general educational information and is not tailored to your personal circumstances.
 
-##Trial Summaries, Accuracy, and Generative AI
+##Trial Summaries & Accuracy
 
-The App contains clinical trial summaries and educational content intended to make learning more efficient through organization and succinct visual presentation. Trial summaries are written and edited and/or proofread by medical professionals; however, generative AI may be used in drafting, refining, or formatting content.
+The App contains clinical trial summaries and educational content intended to make learning more efficient through organization and succinct visual presentation. Trial summaries are written and edited and/or proofread by medical professionals. Generative AI may be used in drafting, refining, or formatting content.
 
 You acknowledge and agree that, despite best efforts, the App may contain errors, omissions, or inaccuracies, including in summaries, categorizations, metadata, or interpretations. The App does not guarantee that any content is complete, current, or error-free. You agree to verify information by consulting the original publication.
 
